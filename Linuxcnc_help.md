@@ -1,27 +1,20 @@
 # IDEA
- idea into a plan
+
+idea into a plan
+
+
+**Youtube_links**
 
 
 
 
 
-
-
-
-Youtube_links
-
-
-
-
----------------------
-
-Linuxcnc
+**Linuxcnc**
 
 github.com/talla83/tshw_2022 ---- 2025 TSHW Modbus 
 
 https://www.youtube.com/watch?v=4fe_Vtknc3M
 
-------
 
 Linuxcnc communicate with arduino modbus slave 
  
@@ -154,93 +147,3 @@ https://www.youtube.com/watch?v=w9TfTdV7XvI&list=LL&index=496&pp=gAQBiAQB
 https://www.youtube.com/watch?v=FTbA3otzpgQ&list=LL&index=115&ab_channel=AvidCNC
 
 ----------------------
-
-
-
-
-
-How to turn Old Laptop Screen into External Desktop Monitor 
-
-https://www.youtube.com/watch?v=6L0TPJEXiAI&list=LL&index=1&pp=gAQBiAQB
-
-
-
-
-
-
-
-
-
-
-
-Tips:
-
-https://www.youtube.com/watch?v=usGDZXb8jvc
-
-
-Replacing with the Pro Max switch inside the rack cabinet 
-
-https://www.youtube.com/watch?v=17Nq2Y0kj3w
-
-
-Audio
-
-imranics 5.1 Dolby DTS remote kit TX109
-
-
-
-
-
-future plan
-https://www.youtube.com/watch?v=5FKZLKW33F4
-https://www.youtube.com/watch?v=Qp8f7RycBFY
-https://www.youtube.com/watch?v=VnkS0mXy6xk
-
-
- Building a robot dog #1 Hardware, Inverse Kinematics 
- 
-https://www.youtube.com/watch?v=wtf0RDwPl0c&list=LL&index=501&pp=gAQBiAQB
-
-
-
-
-
-
-
-
-
- How I made robotic platform with machine vision and participated in robotics Olympiad. 
-
-https://www.youtube.com/watch?v=qjWNKVldk8c&list=LL&index=515&ab_channel=FedorBezzubtsev
-
-
-
-
-
-
-
-
-
-
-Notes :
-
-When starting an electrical project, you need to choose a wire gauge that can carry the required amperage load without overheating. The amperage is a measurement of how much current a conductor can carry without damage. The American Wire Gauge (AWG) system is used to guide the selection of the correct wire gauge. A larger AWG number indicates a smaller diameter wire.
-
-
-
-Here are some examples of wire gauge and amperage ratings:
-
-    18-gauge: Rated for 10 amps, used for low-voltage lighting and lamp cords
-    16-gauge: Rated for 13 amps, used for light-duty extension cords
-    14-gauge: Rated for 15 amps, used for light fixtures, lamps, and lighting circuits
-    12-gauge: Rated for 20 amps, used for kitchen, bathroom, and outdoor receptacles, and 120-volt air conditioners
-    
-    
-
-Other factors that affect amperage include:
-
-    Metal type: Copper has a higher ampacity than aluminum.
-    Ambient temperatures: Amperage decreases as AWG numbers increase.
-    
-    
-    
